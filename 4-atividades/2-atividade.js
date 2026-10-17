@@ -16,7 +16,7 @@ let c;
 
 if (a===b)
     c = a+b;
-else 
+else
     c = a*b;
 
 console.log(`a = ${a}`)
